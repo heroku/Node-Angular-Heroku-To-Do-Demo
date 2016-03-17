@@ -22,6 +22,9 @@ Deploying to Heroku:
 3. 'heroku addons:add mongohq'
 4. 'heroku open'
 
+<a href="https://heroku.com/deploy?template=https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo.git">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 ## Tutorial Series
 
 This repo corresponds to the Node Todo Tutorial Series on [scotch.io](http://scotch.io)
